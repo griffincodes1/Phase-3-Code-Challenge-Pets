@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 import ipdb;
+# from Owner import Owner doesnt work
 
 
 if __name__ == '__main__':
-#  WRITE YOUR TEST CODE HERE ###
+    cow = Owner("bill")
+
 
 
 
